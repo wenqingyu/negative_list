@@ -1,6 +1,6 @@
 ---
 layout: category_index
-title: 负面清单报告
+title: NO.List 报告列表
 permalink: /nl-report/
 category_name: NL-Report
 
