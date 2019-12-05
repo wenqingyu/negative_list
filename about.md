@@ -1,45 +1,11 @@
 ---
 layout: page
-title: About
+title: 什么是负面清单 | Negative-List.Research
 permalink: /about/
+
 ---
+每一段时间我们会对某些行业或具体的公司进行分析研究，并对后期走势进行预测。与一般报喜不报忧/善于修饰的机构研报不一样，我们的目标是发现某些行业/公司存在预期偏差&运营隐患&环境变化等。当有清晰的故事线和确信的逻辑&材料支撑时，我们会直接将分析结果和预测趋势公布。
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+BTW，我们会以“负面清单”的形式公布我们的研究结果。我们做此项目的目的是想通过对“负面清单”的持续研究更新，提升我们对行业/公司学习研究的效率和准确度，并与大家分享学研的整个过程，如果确实能帮助市场发现一些潜在问题隐患，将会更加有意义。
 
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
-
-## Themes
-This theme comes in two color variations. The default is set to the `light` theme. To change the theme color, add `theme_color:` to your `config.yml` file with the color you wish to use. Example: `theme_color: dark`.
-
-<!-- | Config setting | Thumbnail |
-| --- | --- |
-| `theme_color: black` | <img width="330" alt="black" src="url"> |
-| `theme_color: red` | <img width="330" alt="red" src="url"> | -->
-
-
-## Installation
-
-Add this line to your Jekyll site's Gemfile:
-
-```ruby
-gem "jekyll-athena"
-```
-
-And add this line to your Jekyll site `config.yml`:
-
-```yaml
-theme: jekyll-athena
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install jekyll-athena
+最后，我们的项目并不以盈利为目的，只是为了学习交流，任何对行业/公司/机构/经济环境等方面的观点仅限于学术探讨，并不带任何盈利目的。
