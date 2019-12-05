@@ -1,8 +1,8 @@
 ---
 layout: category_index
 title: NO.List 报告列表
-permalink: /nl-report/
-category_name: NL-Report
+permalink: /nol-report/
+category_name: NO.L-Report
 
 ---
 <!--
