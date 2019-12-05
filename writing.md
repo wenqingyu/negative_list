@@ -1,10 +1,10 @@
 ---
 layout: category_index
-title: Writing
-permalink: /writing/
-category_name: writing
----
+title: 负面清单报告
+permalink: /nl-report/
+category_name: NL-Report
 
+---
 <!--
 
 Set the front matter:
