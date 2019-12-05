@@ -1,38 +1,32 @@
+title: 负面清单 | Negative-List.Lab
+description: >-
+  每一段时间我们会对某些行业或具体的公司进行分析研究，并对后期走势进行预测。与一般报喜不报忧/善于修饰的机构研报不一样，我们的目标是发现某些行业/公司存在预期偏差&运营隐患&环境变化等。当有清晰的故事线和确信的逻辑&材料支撑时，我们会直接将分析结果和预测趋势公布。
 
-# SEO
-title: Swiss Jekyll Theme
-description: A bold typographic theme inspired by Swiss design.
 
-# social
-social_link: twitter
+  BTW，我们会以“负面清单”的形式公布我们的研究结果。我们做此项目的目的是想通过对“负面清单”的持续研究更新，提升我们对行业/公司学习研究的效率和准确度，并与大家分享学研的整个过程，如果确实能帮助市场发现一些潜在问题隐患，将会更加有意义。
+
+
+  最后，我们的项目并不以盈利为目的，只是为了学习交流，任何对行业/公司/机构/经济环境等方面的观点仅限于学术探讨，并不带任何盈利目的。
+social_link: ''
 social_username: broccolini
-github_repo: athena # the GitHub repo name for your project
-github_username: broccolini
+github_repo: ''
+github_username: ''
 theme_color: black
-
-# Theme
-remote_theme: 'internet-de-france/swiss'
-baseurl: '/negative_list'
-
-# Defaults
-
+remote_theme: internet-de-france/swiss
+baseurl: /negative_list
 defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
+  - scope:
+      path: ''
+      type: pages
     values:
-      category_name: ""
-  -
-    scope:
-      path: ""
-      type: "posts"
+      category_name: ''
+  - scope:
+      path: ''
+      type: posts
     values:
-      categories: ""
-
-# Stastic UI
-remote_theme_layouts: 
-  - ""
+      categories: ''
+remote_theme_layouts:
+  - ''
   - default
   - page
   - post
@@ -43,7 +37,6 @@ social_links:
   - instagram
   - medium
   - dribbble
-
 theme_colors:
   - black
   - blue
@@ -53,5 +46,3 @@ theme_colors:
   - red
   - white
   - yellow
-
-
