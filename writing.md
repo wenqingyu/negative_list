@@ -1,6 +1,6 @@
 ---
 layout: category_index
-title: NO.List 报告列表
+title: NO.List报告列表
 permalink: /writing/
 category_name: NO.L-Report
 
