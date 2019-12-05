@@ -1,7 +1,7 @@
 ---
 layout: category_index
 title: NO.List报告
-permalink: /_post/
+permalink: /_posts/
 category_name: NO.L-Report
 
 ---
