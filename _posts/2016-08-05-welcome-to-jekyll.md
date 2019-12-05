@@ -1,5 +1,5 @@
 ---
-layout: category-post
+layout: post
 title: 2020年负面观察清单提名征集
 date: '2016-08-05 20:20:56 -0400'
 categories: writing
